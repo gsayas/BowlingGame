@@ -1,4 +1,4 @@
-##Code Kata to Practice TDD in Java
+# Code Kata to Practice TDD in Java
 
 credits:
 1. https://www.youtube.com/watch?v=v_w7pSWeQiM
